@@ -11,6 +11,8 @@ isensee_mixed*
 *.log
 main_label_*.py
 data/
+data/
+*.pk3
 *.pkl
 *.h5
 *.hf5
